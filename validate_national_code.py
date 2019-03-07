@@ -36,7 +36,3 @@ def validate(national_code):
         return False    
     
     return True
-
-if __name__ == '__main__':
-    remainder = 14 % 4
-    print(remainder)
